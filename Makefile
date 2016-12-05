@@ -1,4 +1,4 @@
-nclude make_env
+include make_env
 
 NS ?= jmkhael
 VERSION ?= latest
